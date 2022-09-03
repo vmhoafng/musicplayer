@@ -1,0 +1,111 @@
+const songs = [
+  {
+    name: "Chẳng Giống Giáng Sinh",
+    singer: "Lu, Willistic, datfitxz",
+    image: "./assets/img/changgionggiangsinh.jpg",
+    song: "./assets/mp3/changgionggiangsinh.mp3",
+  },
+  {
+    name: "Cho Tôi Tình Yêu",
+    singer: "DENN",
+    image: "./assets/img/chotoitinhyeu.jpg",
+    song: "./assets/mp3/chotoitinhyeu.mp3",
+  },
+  {
+    name: "Có Em",
+    singer: "Mandihu, LowG",
+    image: "./assets/img/coem.jpg",
+    song: "./assets/mp3/coem.mp3",
+  },
+  {
+    name: "Cô Gái Gu Chì Và Chàng Trai Đôn Chề",
+    singer: "Hiim Hii",
+    image: "./assets/img/hiimhii.jpg",
+    song: "./assets/mp3/cogaiguchivachangtraidonche.mp3",
+  },
+  {
+    name: "Con Chim Trên Cành Hát Về Tình Yêu",
+    singer: "Tùng",
+    image: "./assets/img/26individualism.jpg",
+    song: "./assets/mp3/conchimtrencanhhatvetinhyeu.mp3",
+  },
+  {
+    name: "Con Dế Mèn Hát Vào Mùa Hè",
+    singer: "Tùng",
+    image: "./assets/img/26individualism.jpg",
+    song: "./assets/mp3/condemenhatvaomuahe.mp3",
+  },
+  {
+    name: "Dạy Tôi Cách Yêu",
+    singer: "tlinh",
+    image: "./assets/img/tlinh.jpg",
+    song: "./assets/mp3/daytoicachyeu.mp3",
+  },
+  {
+    name: "Gam Màu Tím Ở Rìa Thế Giới",
+    singer: "Tùng",
+    image: "./assets/img/26individualism.jpg",
+    song: "./assets/mp3/gammautimoriathegioi.mp3",
+  },
+  {
+    name: "Không Cần",
+    singer: "The Sheep",
+    image: "./assets/img/khongcan.jpg",
+    song: "./assets/mp3/khongcan.mp3",
+  },
+  {
+    name: "Love Me More",
+    singer: "The Sheep",
+    image: "./assets/img/lovememore.jpg",
+    song: "./assets/mp3/lovememore.mp3",
+  },
+  {
+    name: "Mấy Khi",
+    singer: "Ngọt",
+    image: "./assets/img/maykhi.jpg",
+    song: "./assets/mp3/maykhi.mp3",
+  },
+  {
+    name: "Ngã Tư Không Đèn",
+    singer: "Trang",
+    image: "./assets/img/ngatukhongden.jpg",
+    song: "./assets/mp3/ngatukhongden.mp3",
+  },
+  {
+    name: "Rebound",
+    singer: "tlinh",
+    image: "./assets/img/rebound.jpg",
+    song: "./assets/mp3/rebound.mp3",
+  },
+  {
+    name: "Thích Quá Rùi Nà",
+    singer: "tlinh",
+    image: "./assets/img/thichquaruina.jpg",
+    song: "./assets/mp3/thichquaruina.mp3",
+  },
+  {
+    name: "Tori",
+    singer: "Vũ Khánh Vân",
+    image: "./assets/img/tori.jpg",
+    song: "./assets/mp3/tori.mp3",
+  },
+  {
+    name: "UMBALA",
+    singer: "The Sheep",
+    image: "./assets/img/umbala.jpg",
+    song: "./assets/mp3/umbala.mp3",
+  },
+  {
+    name: "Vì Anh Đâu Có Biết",
+    singer: "Mandihu, Vũ",
+    image: "./assets/img/vianhdaucobiet.jpg",
+    song: "./assets/mp3/vianhdaucobiet.mp3",
+  },
+  {
+    name: "Xích Thêm Chút Nữa",
+    singer: "tlinh",
+    image: "./assets/img/tlinh.jpg",
+    song: "./assets/mp3/xichthemchutnua.mp3",
+  },
+];
+export default songs;

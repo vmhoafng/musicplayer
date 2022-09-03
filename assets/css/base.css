@@ -1,0 +1,24 @@
+:root {
+  --description-color: #8e8e8e;
+  --title-color: #191919;
+  --gradiant-top-color: #bde0fe;
+  --gradiant-bottom-color: #ffc8dd;
+  --navbar-color: #cdb4db;
+  --navbar__item-active-color: #f84c5c;
+  --main-view__line-color: #ffafcc;
+  --progress-bar-color: #d0d6e2;
+  --controller-btn-color: #404654;
+  --controller-btn__play-pause-color: #274cd9;
+  --scroll-bar-color: #4d0072;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+}
+::-webkit-scrollbar {
+  background-color: transparent;
+}
+button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
